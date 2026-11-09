@@ -1,5 +1,6 @@
 # Hospital-Move-1
 Hospital Move 1
+
 %% 5. Robot Motion Animation
 
 figure('Color','w');
